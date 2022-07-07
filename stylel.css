@@ -18,3 +18,15 @@
     color: white;
     font-weight: 400px;
 }
+
+.help {
+    text-align: center;
+    color: white;
+    padding-top: 5%;
+}
+
+
+.donate-today {
+    text-align: center;
+    margin-inline: 480px;
+}
