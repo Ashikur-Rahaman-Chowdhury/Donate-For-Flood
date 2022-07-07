@@ -30,3 +30,13 @@
     text-align: center;
     margin-inline: 480px;
 }
+
+.money {
+    display: flex;
+    text-align: center;
+    margin-inline: 480px;
+}
+
+.money h3 {
+    padding: 13px;
+}
