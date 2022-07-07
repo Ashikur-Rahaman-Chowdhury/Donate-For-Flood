@@ -40,3 +40,14 @@
 .money h3 {
     padding: 13px;
 }
+
+#tk {
+    color: red;
+    border: 1px solid red;
+    box-shadow: 10px 10px 40px grey;
+}
+
+.donate-plan {
+    text-align: center;
+    margin-inline: 480px;
+}
