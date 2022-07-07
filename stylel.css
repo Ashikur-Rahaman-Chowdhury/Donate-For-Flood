@@ -101,3 +101,21 @@
     width: 50%;
     padding-left: 5%;
 }
+
+.contribute img {
+    width: 80%;
+}
+
+.survive img {
+    width: 80%;
+}
+
+.update {
+    text-align: center;
+    margin-inline: 480px;
+}
+
+.input {
+    text-align: center;
+    margin-inline: 480px;
+}
