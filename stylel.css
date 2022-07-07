@@ -5,3 +5,16 @@
     padding-bottom: 170px;
     padding-top: 150px;
 }
+
+.Donate-Now p {
+    margin-inline: 480px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 400px;
+}
