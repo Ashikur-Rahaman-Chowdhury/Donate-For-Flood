@@ -119,3 +119,25 @@
     text-align: center;
     margin-inline: 480px;
 }
+
+.subscribe {
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+}
+
+footer {
+    background-color: black;
+}
+
+footer h1 {
+    text-align: center;
+    margin-inline: 480px;
+    color: brown;
+    font-family: 'Lobster', cursive;
+}
+
+footer p {
+    text-align: center;
+    margin-inline: 480px;
+    color: white;
+}
